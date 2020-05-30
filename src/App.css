@@ -13,3 +13,7 @@
   color: white;
 }
 
+.mpls-images {
+  display: flex;
+  flex-direction: row;
+}
