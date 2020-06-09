@@ -10,12 +10,15 @@ function App() {
         <img src="https://www.guthrietheater.org/globalassets/4-support/expandcallout_guthriebuildingrh1598-38.jpg" alt="guthrie" />
       </div>
       <div>
-        <h1>Minneapolis Weekend Planner</h1>
+        <h1>minneapolis weekend planner</h1>
         <h3>We hope that this site can provide inspiration and ideas for your next hangout!</h3>
       </div>
-      <div>
+      <div class="input-container">
         <input placeholder="Username" />
         <input placeholder="Password" />
+      </div>
+      <div class="button-container">
+      <button>LOGIN</button>
       </div>
     </div>
   );
